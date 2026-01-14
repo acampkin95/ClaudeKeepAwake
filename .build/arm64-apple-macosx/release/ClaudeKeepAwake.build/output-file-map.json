@@ -1,0 +1,49 @@
+{
+  "": {
+    "dependencies": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/ClaudeKeepAwake.d",
+    "object": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/ClaudeKeepAwake.o",
+    "swift-dependencies": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/master.swiftdeps"
+  },
+  "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/Sources/ClaudeKeepAwake/AppDelegate.swift": {
+    "object": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/AppDelegate.dia"
+  },
+  "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/Sources/ClaudeKeepAwake/ClaudeMonitor.swift": {
+    "object": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/ClaudeMonitor.swift.o",
+    "swiftmodule": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/ClaudeMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/ClaudeMonitor.swiftdeps",
+    "diagnostics": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/ClaudeMonitor.dia"
+  },
+  "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/Sources/ClaudeKeepAwake/LaunchAtLoginManager.swift": {
+    "object": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/LaunchAtLoginManager.swift.o",
+    "swiftmodule": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/LaunchAtLoginManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/LaunchAtLoginManager.swiftdeps",
+    "diagnostics": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/LaunchAtLoginManager.dia"
+  },
+  "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/Sources/ClaudeKeepAwake/SleepPreventer.swift": {
+    "object": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/SleepPreventer.swift.o",
+    "swiftmodule": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/SleepPreventer~partial.swiftmodule",
+    "swift-dependencies": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/SleepPreventer.swiftdeps",
+    "diagnostics": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/SleepPreventer.dia"
+  },
+  "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/Sources/ClaudeKeepAwake/StatusBarController.swift": {
+    "object": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/StatusBarController.swift.o",
+    "swiftmodule": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/StatusBarController~partial.swiftmodule",
+    "swift-dependencies": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/StatusBarController.swiftdeps",
+    "diagnostics": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/StatusBarController.dia"
+  },
+  "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/Sources/ClaudeKeepAwake/WindowManager.swift": {
+    "object": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/WindowManager.swift.o",
+    "swiftmodule": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/WindowManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/WindowManager.swiftdeps",
+    "diagnostics": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/WindowManager.dia"
+  },
+  "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/Sources/ClaudeKeepAwake/main.swift": {
+    "object": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/main.swift.o",
+    "swiftmodule": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/main.swiftdeps",
+    "diagnostics": "/Users/alex/Projects/Dev/Projects/Modules/ClaudeKeepAwake/.build/arm64-apple-macosx/release/ClaudeKeepAwake.build/main.dia"
+  }
+}
